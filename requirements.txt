@@ -1,5 +1,7 @@
 transformers
 transformers[sentencpiece]
+sentencpiece
+protobuf
 datasets
 sacrebleu
 rouge_score
@@ -7,6 +9,7 @@ py7zr
 pandas
 nltk
 tqdm
+torch
 PyYAML
 matplotlib
 notebook
