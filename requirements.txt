@@ -1,6 +1,5 @@
 transformers
 transformers[sentencpiece]
-sentencpiece
 protobuf
 datasets
 sacrebleu
